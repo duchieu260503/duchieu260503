@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Hieu Pham]
+# Hi there! 👋 I'm Hieu Pham
 
 Welcome to my GitHub! I'm a passionate data engineer and developer with a keen interest in data science and predictive analytics. I enjoy creating solutions that make data accessible and useful for all users, especially for tackling real-world challenges like health crisis management.
 
